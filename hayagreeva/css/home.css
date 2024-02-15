@@ -194,3 +194,7 @@ height: 45%;
 .row.card-content {
     margin: 4px;
 }
+.container-fluid.contact-us {
+    background-color: black;
+    color: floralwhite;
+}
